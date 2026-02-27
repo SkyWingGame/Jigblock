@@ -1,6 +1,6 @@
 {
-    "diff":{"chapter":[3,4,5,6,7,8],"ext":[0,0,0,0,1,0,0,0,0,1,0,0,0,0,2,0,0,0,0,2],"max":8},
+   "diff":{"chapter":[3,4,5,6,7,8],"ext":[0,0,1,1,2,1,1,2,2,3,1,1,2,2,3,1,1,2,2,3],"max":8},
     "0": {"url": "https://raw.githubusercontent.com/SkyWingGame/Jigblock/refs/heads/main/0", "chapter": 25, "chapterSubs": 6},
     "1": {"url": "https://raw.githubusercontent.com/SkyWingGame/Jigblock/refs/heads/main/1", "chapter": 25, "chapterSubs": 6},
-    "levels":{"type":[1,1,2,2,1],"1":{"default":0.5,"36":0.6},"2":{"default":0.5,"36":0.6}}
+    "levels":{"type":[1,1,2,2,1],"1":{"default":0.6,"36":0.7,"9":1},"2":{"default":1,"36":1,"9":2}}
 }
