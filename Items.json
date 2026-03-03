@@ -1,46 +1,23 @@
 {
   "Magnifier": {
-    "def": 2,
     "AD": 2,
     "Coin": [100, 2],
-    "name": "Magnifier",
-    "desc": "Show a correct swap pnce",
-    "guide_msg": "Click to reset the puzzle."
   },
   "Steps": {
-    "def": 2,
     "AD": 2,
     "Coin": [100, 2],
-    "name": "Steps",
-    "desc": "Increase steps",
-    "show_ad_count": 5,
-    "guide_msg": "Click to increase the steps."
   },
   "Light": {
-    "def": 2,
     "AD": 2,
-    "Coin": [100, 2],
-    "name": "Light",
-    "desc": "Auto swap once",
-    "guide_msg": "Click to auto swap once."
+    "Coin": [100, 2]
   },
   "Shuffle": {
-    "def": 2,
     "AD": 1,
-    "Coin": [100, 1],
-    "name": "Shuffle",
-    "desc": "All puzzle positions shuffled",
-    "guide_msg": "Click to shuffle the puzzle positions."
+    "Coin": [100, 1]
   },
   "Time": {
-    "def": 2,
     "AD": 1,
     "Coin": [100, 1],
-    "name": "Time",
-    "desc": "Add 20 seconds",
-    "show_ad_count": 15,
-    "Base": 20,
-    "guide_msg": "Click to add 20 seconds."
   },
   "Failed": {
     "AD": {
@@ -49,13 +26,7 @@
     }
   },
   "Coin": {
-    "def": 0,
-    "AD": 100,
-    "name": "Coin"
-  },
-  "Zuan": {
-    "def": 0,
-    "name": "Zuan"
+    "AD": 100
   },
   "Win": {
     "AD": 60,
