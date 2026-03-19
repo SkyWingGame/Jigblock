@@ -1,7 +1,8 @@
 {
   "Magnifier": {
     "AD": 2,
-    "Coin": [100, 2]
+    "Coin": [100, 2],
+    "Zuan": [20, 2]
   },
   "Steps": {
     "AD": 2,
