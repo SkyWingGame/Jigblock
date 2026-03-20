@@ -653,85 +653,127 @@
       "levelId": "0700101",
       "subs": 6,
       "play_type": "1",
-      "play_value": "16",
-      "diff": 4
+      "play_value": "25",
+      "diff": 5
     },
     {
       "levelId": "0700102",
       "subs": 6,
       "play_type": "1",
-      "play_value": "16",
-      "diff": 4
+      "play_value": "25",
+      "diff": 5
     },
     {
       "levelId": "0700103",
       "subs": 6,
       "play_type": "1",
-      "play_value": "16",
-      "diff": 4
+      "play_value": "25",
+      "diff": 5
     },
     {
       "levelId": "0700104",
       "subs": 6,
       "play_type": "1",
-      "play_value": "16",
-      "diff": 4
+      "play_value": "25",
+      "diff": 5
     },
     {
       "levelId": "0700105",
       "subs": 6,
       "play_type": "1",
-      "play_value": "16",
-      "diff": 4
+      "play_value": "25",
+      "diff": 5
     },
     {
       "levelId": "0700106",
       "subs": 6,
       "play_type": "1",
-      "play_value": "16",
-      "diff": 4
+      "play_value": "25",
+      "diff": 5
     },
     {
       "levelId": "0700107",
       "subs": 6,
       "play_type": "1",
-      "play_value": "16",
-      "diff": 4
+      "play_value": "25",
+      "diff": 5
     },
     {
       "levelId": "0700108",
       "subs": 6,
       "play_type": "1",
-      "play_value": "16",
-      "diff": 4
+      "play_value": "25",
+      "diff": 5
     },
     {
       "levelId": "0700109",
       "subs": 6,
       "play_type": "1",
-      "play_value": "16",
-      "diff": 4
+      "play_value": "25",
+      "diff": 5
     },
     {
       "levelId": "0700110",
       "subs": 6,
       "play_type": "1",
-      "play_value": "16",
-      "diff": 4
+      "play_value": "25",
+      "diff": 5
     },
     {
       "levelId": "0700111",
       "subs": 6,
       "play_type": "1",
-      "play_value": "16",
-      "diff": 4
+      "play_value": "25",
+      "diff": 5
     },
     {
       "levelId": "0700112",
       "subs": 6,
       "play_type": "1",
-      "play_value": "16",
-      "diff": 4
+      "play_value": "25",
+      "diff": 5
+    },
+    {
+      "levelId": "0700113",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "25",
+      "diff": 5
+    },
+    {
+      "levelId": "0700114",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "25",
+      "diff": 5
+    },
+    {
+      "levelId": "0700115",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "25",
+      "diff": 5
+    },
+    {
+      "levelId": "0700116",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "25",
+      "diff": 5
+    },
+    {
+      "levelId": "0700117",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "25",
+      "diff": 5
+    },
+    {
+      "levelId": "0700118",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "25",
+      "diff": 5
     }
   ],
   "LimitedLevelPacks": [
