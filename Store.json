@@ -1,0 +1,977 @@
+{
+  "Store": {
+    "categories": [
+      {
+        "id": "bundle",
+        "name": "",
+        "order": 1
+      },
+      {
+        "id": "other",
+        "name": "",
+        "order": 2
+      },
+      {
+        "id": "diamond",
+        "name": "",
+        "order": 3
+      },
+      {
+        "id": "coin",
+        "name": "",
+        "order": 4
+      }
+    ],
+    "bundle": [
+      {
+        "productId": "store.bundle.newbie",
+        "name": "Bundle_1",
+        "image": "store/bundle_newbie",
+        "priceDisplay": "$2.98",
+        "contents": {
+          "Coin": 200,
+          "Zuan": 20,
+          "Magnifier": 3
+        },
+        "maxPurchase": 1,
+        "standaloneDisplay": "store/prefabs/Bubdle"
+      },
+      {
+        "productId": "store.bundle.no_ads",
+        "name": "Bundle_2",
+        "image": "store/bundle_no_ads",
+        "priceDisplay": "$20.99",
+        "contents": {
+          "remove_ads": 1,
+          "Coin": 500,
+          "Zuan": 50,
+          "Magnifier": 7
+        },
+        "maxPurchase": 1,
+        "exclusiveGroup": "remove_ads"
+      },
+      {
+        "productId": "store.bundle.basic",
+        "name": "Bundle_3",
+        "image": "store/bundle_basic",
+        "priceDisplay": "$8.48",
+        "contents": {
+          "Coin": 300,
+          "Zuan": 30,
+          "Magnifier": 5
+        },
+        "maxPurchase": 1
+      },
+      {
+        "productId": "store.bundle.classic",
+        "name": "Bundle_4",
+        "image": "store/bundle_classic",
+        "priceDisplay": "$10.99",
+        "contents": {
+          "Coin": 600,
+          "Zuan": 60,
+          "Magnifier": 10
+        },
+        "maxPurchase": 1
+      },
+      {
+        "productId": "store.bundle.luxury",
+        "name": "Bundle_5",
+        "image": "store/bundle_luxury",
+        "priceDisplay": "$20.99",
+        "contents": {
+          "Coin": 1200,
+          "Zuan": 120,
+          "Magnifier": 20
+        },
+        "maxPurchase": 1
+      },
+      {
+        "productId": "store.bundle.supreme",
+        "name": "Bundle_6",
+        "image": "store/bundle_supreme",
+        "priceDisplay": "$45.99",
+        "contents": {
+          "Coin": 3000,
+          "Zuan": 350,
+          "Magnifier": 40
+        },
+        "maxPurchase": 1
+      }
+    ],
+    "other": [
+      {
+        "productId": "free_ad",
+        "image": "store/coin_ad",
+        "contents": {
+          "Coin": 50
+        },
+        "dailyLimit": 4
+      },
+      {
+        "productId": "store.other.remove_ads",
+        "name": "Bundle_8",
+        "image": "store/remove_ads",
+        "priceDisplay": "$12.98",
+        "contents": {
+          "remove_ads": 1
+        },
+        "maxPurchase": 1,
+        "exclusiveGroup": "remove_ads"
+      }
+    ],
+    "diamond": [
+      {
+        "productId": "store.diamond.30",
+        "image": "store/zuan_30",
+        "priceDisplay": "$2.98",
+        "contents": {
+          "Zuan": 30
+        }
+      },
+      {
+        "productId": "store.diamond.125",
+        "image": "store/zuan_125",
+        "priceDisplay": "$10.99",
+        "contents": {
+          "Zuan": 125
+        },
+        "extra": 5
+      },
+      {
+        "productId": "store.diamond.250",
+        "image": "store/zuan_250.png",
+        "priceDisplay": "$20.99",
+        "contents": {
+          "Zuan": 250
+        },
+        "extra": 25
+      },
+      {
+        "productId": "store.diamond.570",
+        "image": "store/zuan_570",
+        "priceDisplay": "$45.99",
+        "contents": {
+          "Zuan": 570
+        },
+        "extra": 75
+      },
+      {
+        "productId": "store.diamond.955",
+        "image": "store/zuan_955",
+        "priceDisplay": "$73.99",
+        "contents": {
+          "Zuan": 955
+        },
+        "extra": 160
+      },
+      {
+        "productId": "store.diamond.1875",
+        "image": "store/zuan_1875",
+        "priceDisplay": "$139.99",
+        "contents": {
+          "Zuan": 1875
+        },
+        "extra": 375
+      }
+    ],
+    "coin": [
+      {
+        "productId": "store.Coin.160",
+        "image": "store/coin_160",
+        "priceDisplay": "$2.98",
+        "contents": {
+          "Coin": 160
+        }
+      },
+      {
+        "productId": "store.Coin.675",
+        "image": "store/coin_675",
+        "priceDisplay": "$10.99",
+        "contents": {
+          "Coin": 675
+        },
+        "extra": 25
+      },
+      {
+        "productId": "store.Coin.1325",
+        "image": "store/coin_1325",
+        "priceDisplay": "$20.99",
+        "contents": {
+          "Coin": 1325
+        },
+        "extra": 125
+      },
+      {
+        "productId": "store.Coin.3050",
+        "image": "store/coin_3050",
+        "priceDisplay": "$45.99",
+        "contents": {
+          "Coin": 3050
+        },
+        "extra": 400
+      },
+      {
+        "productId": "store.Coin.5100",
+        "image": "store/coin_5100",
+        "priceDisplay": "$73.99",
+        "contents": {
+          "Coin": 5100
+        },
+        "extra": 850
+      },
+      {
+        "productId": "store.Coin.10000",
+        "image": "store/coin_10000",
+        "priceDisplay": "$139.99",
+        "contents": {
+          "Coin": 10000
+        },
+        "extra": 2000
+      }
+    ]
+  },
+  "Treasure": {
+    "title": "无限秘宝",
+    "nodes": [
+      {
+        "type": "item",
+        "contents": {
+          "Coin": 20
+        }
+      },
+      {
+        "type": "item_ad",
+        "contents": {
+          "Magnifier": 1
+        }
+      },
+      {
+        "type": "level_ad",
+        "contents": {
+          "levelId": "0600101"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Zuan": 2
+        }
+      },
+      {
+        "type": "level_iap",
+        "contents": {
+          "levelId": "0600102"
+        },
+        "productId": "store.treasure.challenge_01",
+        "priceDisplay": "$0.99"
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Coin": 25
+        }
+      },
+      {
+        "type": "level",
+        "contents": {
+          "levelId": "0600103"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Magnifier": 1
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Zuan": 3
+        }
+      },
+      {
+        "type": "level_iap",
+        "contents": {
+          "levelId": "0600104"
+        },
+        "productId": "store.treasure.challenge_02",
+        "priceDisplay": "$1.48"
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Coin": 40
+        }
+      },
+      {
+        "type": "level",
+        "contents": {
+          "levelId": "0600105"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Magnifier": 1
+        }
+      },
+      {
+        "type": "level_iap",
+        "contents": {
+          "levelId": "0600106"
+        },
+        "productId": "store.treasure.challenge_02",
+        "priceDisplay": "$1.48"
+      },
+      {
+        "type": "level",
+        "contents": {
+          "levelId": "0600107"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Zuan": 4
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Coin": 60
+        }
+      },
+      {
+        "type": "level",
+        "contents": {
+          "levelId": "0600108"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Magnifier": 1
+        }
+      },
+      {
+        "type": "level_iap",
+        "contents": {
+          "levelId": "0600109"
+        },
+        "productId": "store.treasure.challenge_02",
+        "priceDisplay": "$1.48"
+      },
+      {
+        "type": "level",
+        "contents": {
+          "levelId": "0600110"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Zuan": 5
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Coin": 80
+        }
+      },
+      {
+        "type": "level",
+        "contents": {
+          "levelId": "0600111"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Magnifier": 1
+        }
+      },
+      {
+        "type": "level_iap",
+        "contents": {
+          "levelId": "0600112"
+        },
+        "productId": "store.treasure.challenge_02",
+        "priceDisplay": "$1.48"
+      },
+      {
+        "type": "level",
+        "contents": {
+          "levelId": "0600113"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Zuan": 6
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Coin": 100
+        }
+      },
+      {
+        "type": "level",
+        "contents": {
+          "levelId": "0600114"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Magnifier": 1
+        }
+      },
+      {
+        "type": "level_iap",
+        "contents": {
+          "levelId": "0600115"
+        },
+        "productId": "store.treasure.challenge_02",
+        "priceDisplay": "$1.48"
+      },
+      {
+        "type": "level",
+        "contents": {
+          "levelId": "0600116"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Zuan": 7
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Coin": 120
+        }
+      },
+      {
+        "type": "level",
+        "contents": {
+          "levelId": "0600117"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Magnifier": 1
+        }
+      },
+      {
+        "type": "level_iap",
+        "contents": {
+          "levelId": "0600118"
+        },
+        "productId": "store.treasure.challenge_02",
+        "priceDisplay": "$1.48"
+      },
+      {
+        "type": "level",
+        "contents": {
+          "levelId": "0600119"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Zuan": 8
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Coin": 140
+        }
+      },
+      {
+        "type": "level",
+        "contents": {
+          "levelId": "0600120"
+        }
+      },
+      {
+        "type": "item",
+        "contents": {
+          "Magnifier": 1
+        }
+      }
+    ]
+  },
+  "Levels": [
+    {
+      "levelId": "0600101",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600102",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600103",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600104",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600105",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600106",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600107",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600108",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600109",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600110",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600111",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600112",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600113",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600114",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600115",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600116",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600117",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600118",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600119",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0600120",
+      "subs": 1,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0700101",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0700102",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0700103",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0700104",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0700105",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0700106",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0700107",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0700108",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0700109",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0700110",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0700111",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    },
+    {
+      "levelId": "0700112",
+      "subs": 6,
+      "play_type": "1",
+      "play_value": "16",
+      "diff": 4
+    }
+  ],
+  "LimitedLevelPacks": [
+    {
+      "levelId": "0700101",
+      "contents": {
+        "Coin": 50,
+        "Zuan": 5
+      },
+      "durationHours": 8,
+      "Name": "Walking The Dog",
+      "Index": "NO.001",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700102",
+      "contents": {
+        "Coin": 100,
+        "Magnifier": 1
+      },
+      "durationHours": 8,
+      "Name": "Let's Travel Together",
+      "Index": "NO.002",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700103",
+      "contents": {
+        "Coin": 50,
+        "Zuan": 5
+      },
+      "durationHours": 8,
+      "Name": "Special Care",
+      "Index": "NO.003",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700104",
+      "contents": {
+        "Coin": 100,
+        "Magnifier": 1
+      },
+      "durationHours": 8,
+      "Name": "Cat",
+      "Index": "NO.004",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700105",
+      "contents": {
+        "Coin": 50,
+        "Zuan": 5
+      },
+      "durationHours": 8,
+      "Name": "Don't Move!",
+      "Index": "NO.005",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700106",
+      "contents": {
+        "Coin": 100,
+        "Magnifier": 1
+      },
+      "durationHours": 8,
+      "Name": "Lost",
+      "Index": "NO.006",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700107",
+      "contents": {
+        "Coin": 50,
+        "Zuan": 5
+      },
+      "durationHours": 8,
+      "Name": "Sunflower",
+      "Index": "NO.007",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700108",
+      "contents": {
+        "Coin": 100,
+        "Magnifier": 1
+      },
+      "durationHours": 8,
+      "Name": "Comics 1",
+      "Index": "NO.008",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700109",
+      "contents": {
+        "Coin": 50,
+        "Zuan": 5
+      },
+      "durationHours": 8,
+      "Name": "Comics 2",
+      "Index": "NO.009",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700110",
+      "contents": {
+        "Coin": 100,
+        "Magnifier": 1
+      },
+      "durationHours": 8,
+      "Name": "Comics 3",
+      "Index": "NO.010",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700111",
+      "contents": {
+        "Coin": 50,
+        "Zuan": 5
+      },
+      "durationHours": 8,
+      "Name": "Comics 4",
+      "Index": "NO.011",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700112",
+      "contents": {
+        "Coin": 100,
+        "Magnifier": 1
+      },
+      "durationHours": 8,
+      "Name": "Comics 5",
+      "Index": "NO.012",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700113",
+      "contents": {
+        "Coin": 50,
+        "Zuan": 5
+      },
+      "durationHours": 8,
+      "Name": "Comics 6",
+      "Index": "NO.013",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700114",
+      "contents": {
+        "Coin": 100,
+        "Magnifier": 1
+      },
+      "durationHours": 8,
+      "Name": "Comics 7",
+      "Index": "NO.014",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700115",
+      "contents": {
+        "Coin": 50,
+        "Zuan": 5
+      },
+      "durationHours": 8,
+      "Name": "First Class",
+      "Index": "NO.015",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700116",
+      "contents": {
+        "Coin": 100,
+        "Magnifier": 1
+      },
+      "durationHours": 8,
+      "Name": "Punish",
+      "Index": "NO.016",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700117",
+      "contents": {
+        "Coin": 50,
+        "Zuan": 5
+      },
+      "durationHours": 8,
+      "Name": "Garden",
+      "Index": "NO.017",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    },
+    {
+      "levelId": "0700118",
+      "contents": {
+        "Coin": 100,
+        "Magnifier": 1
+      },
+      "durationHours": 8,
+      "Name": "Sofas Are Hard To Buy.",
+      "Index": "NO.018",
+      "productId": "store.limitedlevelpacks.699",
+      "priceDisplay": "$6.99"
+    }
+  ],
+  "Secret": [
+    {
+      "levelId": "0800101",
+      "minLevel": 10,
+      "productId": "store.secret.level_301",
+      "priceDisplay": "$2.98"
+    }
+  ],
+  "ItemPacks": [
+    {
+      "productId": "store.item_pack.starter",
+      "name": "Bundle_7",
+      "contents": {
+        "Coin": 1088,
+        "Zuan": 20,
+        "Magnifier": 3
+      },
+      "image": "itemPacks/starter.png",
+      "priceDisplay": "$2.99",
+      "badge": "HOT"
+    }
+  ]
+}
