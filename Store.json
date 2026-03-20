@@ -177,7 +177,7 @@
     ],
     "coin": [
       {
-        "productId": "store.Coin.160",
+        "productId": "store.coin.160",
         "image": "store/coin_160",
         "priceDisplay": "$2.98",
         "contents": {
@@ -185,7 +185,7 @@
         }
       },
       {
-        "productId": "store.Coin.675",
+        "productId": "store.coin.675",
         "image": "store/coin_675",
         "priceDisplay": "$10.99",
         "contents": {
@@ -194,7 +194,7 @@
         "extra": 25
       },
       {
-        "productId": "store.Coin.1325",
+        "productId": "store.coin.1325",
         "image": "store/coin_1325",
         "priceDisplay": "$20.99",
         "contents": {
@@ -203,7 +203,7 @@
         "extra": 125
       },
       {
-        "productId": "store.Coin.3050",
+        "productId": "store.coin.3050",
         "image": "store/coin_3050",
         "priceDisplay": "$45.99",
         "contents": {
@@ -212,7 +212,7 @@
         "extra": 400
       },
       {
-        "productId": "store.Coin.5100",
+        "productId": "store.coin.5100",
         "image": "store/coin_5100",
         "priceDisplay": "$73.99",
         "contents": {
@@ -221,7 +221,7 @@
         "extra": 850
       },
       {
-        "productId": "store.Coin.10000",
+        "productId": "store.coin.10000",
         "image": "store/coin_10000",
         "priceDisplay": "$139.99",
         "contents": {
