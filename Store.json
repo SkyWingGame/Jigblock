@@ -253,7 +253,7 @@
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Zuan": 2
         }
@@ -273,19 +273,19 @@
         }
       },
       {
-        "type": "level",
+        "type": "level_ad",
         "contents": {
           "levelId": "0600103"
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Magnifier": 1
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Zuan": 3
         }
@@ -305,13 +305,13 @@
         }
       },
       {
-        "type": "level",
+        "type": "level_ad",
         "contents": {
           "levelId": "0600105"
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Magnifier": 1
         }
@@ -325,13 +325,13 @@
         "priceDisplay": "$1.48"
       },
       {
-        "type": "level",
+        "type": "level_ad",
         "contents": {
           "levelId": "0600107"
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Zuan": 4
         }
@@ -343,13 +343,13 @@
         }
       },
       {
-        "type": "level",
+        "type": "level_ad",
         "contents": {
           "levelId": "0600108"
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Magnifier": 1
         }
@@ -363,13 +363,13 @@
         "priceDisplay": "$1.48"
       },
       {
-        "type": "level",
+        "type": "level_ad",
         "contents": {
           "levelId": "0600110"
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Zuan": 5
         }
@@ -381,13 +381,13 @@
         }
       },
       {
-        "type": "level",
+        "type": "level_ad",
         "contents": {
           "levelId": "0600111"
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Magnifier": 1
         }
@@ -401,13 +401,13 @@
         "priceDisplay": "$1.48"
       },
       {
-        "type": "level",
+        "type": "level_ad",
         "contents": {
           "levelId": "0600113"
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Zuan": 6
         }
@@ -419,13 +419,13 @@
         }
       },
       {
-        "type": "level",
+        "type": "level_ad",
         "contents": {
           "levelId": "0600114"
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Magnifier": 1
         }
@@ -439,13 +439,13 @@
         "priceDisplay": "$1.48"
       },
       {
-        "type": "level",
+        "type": "level_ad",
         "contents": {
           "levelId": "0600116"
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Zuan": 7
         }
@@ -457,13 +457,13 @@
         }
       },
       {
-        "type": "level",
+        "type": "level_ad",
         "contents": {
           "levelId": "0600117"
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Magnifier": 1
         }
@@ -477,13 +477,13 @@
         "priceDisplay": "$1.48"
       },
       {
-        "type": "level",
+        "type": "level_ad",
         "contents": {
           "levelId": "0600119"
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Zuan": 8
         }
@@ -495,13 +495,13 @@
         }
       },
       {
-        "type": "level",
+        "type": "level_ad",
         "contents": {
           "levelId": "0600120"
         }
       },
       {
-        "type": "item",
+        "type": "item_ad",
         "contents": {
           "Magnifier": 1
         }
