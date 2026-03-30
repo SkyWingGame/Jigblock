@@ -3,5 +3,5 @@
     "0": {"url": "https://raw.githubusercontent.com/SkyWingGame/Jigblock/refs/heads/main/0", "chapter": 25, "chapterSubs": 6},
     "1": {"url": "https://raw.githubusercontent.com/SkyWingGame/Jigblock/refs/heads/main/1", "chapter": 25, "chapterSubs": 6},
     "levels":{"type":[1,1,2,2,1],"1":{"default":2,"9":2,"16":2},"2":{"default":5,"9":10,"16":10},"s_ad":2},
-    "level_sub_type": { 1: { "02": [1, 1], "03": [3, 20] } }
+    "level_sub_type": { "1": { "02": [1, 1], "03": [3, 20] } }
 }
