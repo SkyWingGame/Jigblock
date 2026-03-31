@@ -1,0 +1,36 @@
+{
+  "Magnifier": {
+    "AD": 2,
+    "Coin": [100, 2]
+  },
+  "Steps": {
+    "AD": 2,
+    "Coin": [100, 2]
+  },
+  "Light": {
+    "AD": 2,
+    "Coin": [100, 2]
+  },
+  "Shuffle": {
+    "AD": 1,
+    "Coin": [100, 1]
+  },
+  "Time": {
+    "AD": 1,
+    "Coin": [100, 1]
+  },
+  "Failed": {
+    "AD": {
+      "steps": 3,
+      "time": 20
+    }
+  },
+  "Coin": {
+    "AD": 100
+  },
+  "Win": {
+    "AD": 60,
+    "Free": 30
+  }
+}
+
